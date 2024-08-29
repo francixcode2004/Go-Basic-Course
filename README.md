@@ -1,6 +1,6 @@
 # Curso Básico de : Conceptos Fundamentales
 
-Este repositorio contiene un ejemplo de códi en que cubre los conceptos básicos del lenguaje. Está diseñado para ayudar a los principiantes a comprender los fundamentos de , incluyendo variables, constantes, operadores, condicionales, bucles, arrays y más.
+Este repositorio contiene un ejemplo de código en que cubre los conceptos básicos del lenguaje. Está diseñado para ayudar a los principiantes a comprender los fundamentos de , incluyendo variables, constantes, operadores, condicionales, bucles, arrays y más.
 
 ## Contenido
 
