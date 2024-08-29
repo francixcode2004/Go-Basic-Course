@@ -15,7 +15,6 @@ Este repositorio contiene un ejemplo de código en que cubre los conceptos bási
 9. [Arrays](#arrays)
 10. [Arrays Multidimensionales](#arrays-multidimensionales)
 
-[Variables y Tipos de Datos](#variables-y-tipos-de-datos)
 `Variables y Tipos de Datos`
 var msg string
 var num int
