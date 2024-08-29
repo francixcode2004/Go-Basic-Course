@@ -15,7 +15,7 @@ Este repositorio contiene un ejemplo de códi en que cubre los conceptos básico
 9. [Arrays](#arrays)
 10. [Arrays Multidimensionales](#arrays-multidimensionales)
 
-#Variables y Tipos de Datos
+`Variables y Tipos de Datos`
 var msg string
 var num int
 var desicion bool
